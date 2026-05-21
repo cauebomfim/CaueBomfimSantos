@@ -49,3 +49,4 @@ function resp6(){
     document.getElementById('resultado6').innerHTML += 'O antecessor de: ' + n + " é "+ antecessor + '<br>'+"O sucessor de: "+ n+" é "+ sucessor  
 }
 
+// teste 
